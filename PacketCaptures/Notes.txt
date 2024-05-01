@@ -1,0 +1,1 @@
+Packet Captures taken on April 25th, 2024, around noon. Both YouTube apps were on version 19.15.35, the latest available at the time (the ReVanced App of course has some patches applied to it).

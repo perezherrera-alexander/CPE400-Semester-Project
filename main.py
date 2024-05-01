@@ -42,7 +42,7 @@ def parsePcap(pcap_file):
             print("")
 
 def openExamplePcap():
-    pcap_file = "example.pcap"
+    pcap_file = "PacketCapture/Example.pcap"
     parsePcap(pcap_file)
 
 
